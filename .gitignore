@@ -1,0 +1,9 @@
+.classpath
+.settings
+.project
+*.class
+*.java
+*.lst
+*.xml
+*.txt
+*.properties
